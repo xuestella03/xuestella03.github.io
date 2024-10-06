@@ -1,5 +1,7 @@
 # xuestella03.github.io
 
+![Headshot](assets/Headshot.JPG)
+
 # Northwestern Student
 Pursuing a Bachelor of Arts in Computer Science and Mathematics
 
