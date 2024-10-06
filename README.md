@@ -1,7 +1,7 @@
 ## Introduction
 Hi
 
-See my projects [here](/projectspage).
+See my projects [here](/projectspage.md).
 
 ### Technical Skills
 
