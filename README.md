@@ -1,11 +1,13 @@
 ## Introduction
 Hi
 
+See my projects [here](#projects).
+
 ### Technical Skills
 
 ## Education
 ### Northwestern University
-Bachelor of Arts in Mathematics and Computer Science, *Expected June 2025*
+Bachelor of Arts in Mathematics and Computer Science - *Expected June 2025*
 
 GPA: 3.67/4.0 | Dean's List 
 #### Coursework
@@ -27,4 +29,4 @@ June 20 - August 23, 2024
 - Built a checkout form using PrimeVue components. Integrated the Stripe API to ensure secure transactions.
 - Used AWS Lambda functions with the API Gateway to create serverless back-end services, including functions to add users to the database upon sign-up for efficient and scalable user management.
 
-### Projects
+## Projects
