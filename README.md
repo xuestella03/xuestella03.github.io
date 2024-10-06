@@ -1,11 +1,9 @@
-# xuestella03.github.io
-
-
 # Northwestern Student
-Pursuing a Bachelor of Arts in Computer Science and Mathematics
 
-### Education
-test
+### Technical Skills
+
+## Education
+**Northwestern University** 
 
 ### Leadership and Work Experience
 # Software Engineer Intern @ PrizeSole
