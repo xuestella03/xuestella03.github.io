@@ -1,7 +1,8 @@
-## Introduction
+## Home
 Hi
 
-See my projects [here](/projectspage.md).
+- See my resume [here](/resumepage.md).
+- See my projects [here](/projectspage.md).
 
 ### Technical Skills
 
