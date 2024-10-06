@@ -1,8 +1,8 @@
 ## Home
 Hi
 
-- See my resume [here](/resumepage.md).
-- See my projects [here](/projectspage.md).
+- See my work and leadership experience [here](/resumepage.md).
+- See my projects and research [here](/projectspage.md).
 
 ### Technical Skills
 
