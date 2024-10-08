@@ -8,7 +8,7 @@ Back link
 
 **Directed Reading Program Spring 2024**
 
-*Affine Algebraid Varieties* - *December 1, 2023*
+*Affine Algebraic Varieties* - *December 1, 2023*
 
 <iframe width="100%" height="800" src="assets/img/DRP Spring 2024 - Affine Algebraic Varieties.pdf"> </iframe>
 
