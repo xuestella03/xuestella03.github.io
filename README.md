@@ -12,11 +12,9 @@ When I’m not working or studying, I enjoy working out and cooking. I’ve rece
 I’m always up for learning something new, whether it’s in tech, math, or life in general! 
 
 - See my education [here](/education.md). 
+- See my technical skills [here](/skillspage.md).
 - See my work and leadership experience [here](/resumepage.md).
 - See my projects and research [here](/projectspage.md).
 
-### Technical Skills
-
-#### Languages
 
 
