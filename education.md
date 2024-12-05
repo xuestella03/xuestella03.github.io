@@ -42,4 +42,4 @@ GPA: 3.67/4.0 | Dean's List
 - Real Analysis
 
 
-**Selected Class Notes**
+#### Selected Class Notes

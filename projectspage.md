@@ -3,18 +3,21 @@
 
 ## Projects
 
-**Advertisement Conversion Modeling**
+- **Advertisement Conversion Modeling**
+
 <a href="google.com">GitHub Repository.</a>
 
-**Fridge and Grocery Application in Amazon Web Services**
+- **Fridge and Grocery Application in Amazon Web Services**
 
-**Python Network Scanning Tool**
+- **Python Network Scanning Tool**
+
 <a href="https://github.com/xuestella03/DomainScanner">GitHub Repository.</a>
 
-**Predictive Modeling of Stock Market Movement**
+- **Predictive Modeling of Stock Market Movement**
 
-**Derivative Pricing and Financial Modeling**
+- **Derivative Pricing and Financial Modeling**
 
-**Jointed Assemblies with Shading and Lighting**
+- **Jointed Assemblies with Shading and Lighting**
+
 <a href="https://github.com/xuestella03/ComputerGraphicsProject">GitHub Repository.</a>
 
