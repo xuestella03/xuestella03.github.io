@@ -3,6 +3,8 @@
 ## Research Experience
 **Coadjoint Orbits of Extensions of Lie Groups**
 
+<a href="assets/img/SURG Summary Report.pdf" target="_blank">PDF of summary report.</a>
+
 <a href="https://www.overleaf.com/read/cfthgkqvbyfx#bd801e">PDF of final paper.</a>
 - Wrote a grant proposal and was awarded the Summer Undergraduate Research Grant.
 - Conducted an 8-week independent research project to rigorously prove new properties of coadjoint orbits of extensions of Lie groups under the guidance of Professor Santiago Cañez.
@@ -25,7 +27,7 @@ The Directed Reading Program in the Northwestern University Department of Mathem
 
 *Smooth Manifolds and Lie Groups* - *December 1, 2023*
 
-<a href="assets/img/DRP Spring 2024 - Affine Algebraic Varieties.pdf" target="_blank">PDF of annotated presentation slideshow.</a>
+<a href="assets/img/DRP Fall 2023 - Smooth Manifolds and Lie Groups.pdf" target="_blank">PDF of annotated presentation slideshow.</a>
 - Presented an accessible definition of manifolds and Lie groups.
 - Provided examples of manifolds and Lie groups; analyzed and proved a non-example by leveraging properties of the tangent bundle of a manifold.
 
