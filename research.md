@@ -5,7 +5,7 @@
 
 <a href="assets/img/SURG Summary Report.pdf" target="_blank">PDF of summary report.</a>
 
-<a href="https://www.overleaf.com/read/cfthgkqvbyfx#bd801e">PDF of final paper.</a>
+<a href="assets/img/SURG Shortened Final.pdf" target="_blank">PDF of final paper.</a>
 - Wrote a grant proposal and was awarded the Summer Undergraduate Research Grant.
 - Conducted an 8-week independent research project to rigorously prove new properties of coadjoint orbits of extensions of Lie groups under the guidance of Professor Santiago Cañez.
 - Authored a final paper on the subject.
