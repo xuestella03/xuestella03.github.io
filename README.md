@@ -1,10 +1,11 @@
 - See my education [here](/education.md). 
 - See my technical skills [here](/skillspage.md).
 - See my work and leadership experience [here](/resumepage.md).
-- See my projects and research [here](/projectspage.md).
+- See my projects [here](/projectspage.md).
+- See my research and talks [here](/research.md).
 
 ## About Me
-Hi there! My name is Estella. I’m a senior at Northwestern University working towards a Bachelor of Arts in Mathematics and Computer Science. My experience ranges from financial modeling to data science, machine learning, and working in the cloud with AWS and APIs. I’ve also done research in abstract math, and outside of class, I enjoy diving deeper into math topics. I’m a lover of group theory and all things abstract algebra!
+Hi there! My name is Estella. I’m a senior at Northwestern University working towards a Bachelor of Arts in Mathematics and Computer Science. My experience ranges from financial modeling to data science, machine learning, and working in the cloud with AWS and APIs. I’ve also done research in abstract math, and outside of class, I enjoy diving deeper into math topics. 
 
 I’m currently looking for roles in quantitative research, trading, data science, and software engineering where I can apply my analytical skills and passion for problem-solving. 
 
