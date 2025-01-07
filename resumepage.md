@@ -22,6 +22,6 @@
 - Coordinated with the box office to set up the ticketing platform and resolve patrons' inquiries.
 
 **Teaching Assistant @ Northwestern Department of Mathematics** - *September 2022 - Present*
-- Aided Professors Eugene Kushnirsky with MATH 228-1 (Multivariable Differential Calculus for Engineering), Aaron Peterson with MATH 220-1 (Single Variable Differential Calculus), and Cristina Sizemore with MATH 220-2 (Single Variable Integral Calculus).
+- Aided Professors Eugene Kushnirsky with MATH 228-1 (Multivariable Differential Calculus for Engineering), Aaron Peterson with MATH 220-1 (Single Variable Differential Calculus), Cristina Sizemore with MATH 220-2 (Single Variable Integral Calculus), and Sonja Mapes with MATH 230-1 (Multivariable Differential Calculus).
 - Taught classes of 40+ students and assisted with challenging worksheets. Prepared additional lectures and solutions to expand upon worksheet material.
 - Evaluated homework, held weekly office hours, and recommended study strategies.

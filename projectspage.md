@@ -10,14 +10,14 @@
 
 ## Projects
 
-**Advertisement Conversion Modeling** - <a href="https://github.com/xuestella03">GitHub Repository</a>
+**Advertisement Conversion Modeling** - <a href="https://github.com/xuestella03/AdvertisementConversion">GitHub Repository</a>
 
 *Python, XGBoost, GridSearchCV, pandas, scikit-learn*
 - Implemented functions to clean conversion and non-conversion datasets using Pandas dataframes. Performed data analysis by writing functions to compare continuous and categorical variables (e.g., conversion by zip code).
 - Built one classification model using XGBoost and another using GridSearchCV to predict the conversions and non-conversions of advertisements given features such as zip code, browser, etc.
 - Trained and tested the classifier by splitting conversion/non-conversion datasets. Achieved ROC AUC score of 0.88.
 
-**Fridge and Grocery Application in Amazon Web Services** - <a href="https://github.com/xuestella03">GitHub Repository</a>
+**Fridge and Grocery Application in Amazon Web Services** - [Link to Webpage](/fridge.md)
 
 *AWS (S3, RDS, Lambda), RESTful APIs, Python, JavaScript*
 - Built an application allowing users to keep track of items in their fridge and create grocery lists based on ingredients needed for uploaded PDF recipes. Extracted text from images or non-PDF recipe formats. 
@@ -50,6 +50,7 @@
 - Implemented a Monte Carlo simulation to predict portolio values over time. Analyzed historical data and applied Cholesky decomposition to simulate correlated returns. 
 - Interpreted simulation results by computing measures such as value at risk, variance, and confidence intervals. 
 
+**Asteroid Game** - <a href="https://github.com/xuestella03/AsteroidGame">GitHub Repository</a>
 
 **Jointed Assemblies with Shading and Lighting** - <a href="https://github.com/xuestella03/ComputerGraphicsProject">GitHub Repository</a>
 

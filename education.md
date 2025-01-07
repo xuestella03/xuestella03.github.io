@@ -11,7 +11,7 @@
 ### Northwestern University
 Bachelor of Arts in Mathematics and Computer Science - *Expected June 2025*
 
-GPA: 3.67/4.0 | Dean's List 
+GPA: 3.68/4.0 | Dean's List 
 #### Coursework
 
 **Computer Science**
