@@ -33,7 +33,7 @@
 - Implemented a JSON reporting framework to present results.
 - Ensured portability by managing third-party dependencies and creating a distribution-ready package.
 
-**Predictive Modeling of Stock Market Movement** - <a href="https://github.com/xuestella03">GitHub Repository</a>
+**Predictive Modeling of Stock Market Movement** - <a href="https://github.com/xuestella03/StockMarket">GitHub Repository</a>
 
 *Python, Random Forest Classifiers, yfinance, scikit-learn*
 - Used Random Forest classifiers to predict daily movements of a given stock or index using the opening and closing price, the volume traded, and the highest and lowest price.
@@ -41,7 +41,7 @@
 - Backtested the model using growing amounts of data to predict subsequent periods. 
 - Analyzed market sentiment from news data and included it as a predictor.
 
-**Derivative Pricing and Financial Modeling** - <a href="https://github.com/xuestella03">GitHub Repository</a>
+**Derivative Pricing and Financial Modeling** - <a href="https://github.com/xuestella03/OptionsPricer">GitHub Repository</a>
 
 *Python, Financial Theory, Stochastic Volatility, numpy, matplotlib*
 - Developed an options pricing model using Black-Scholes to calculate the prices of European options. 
