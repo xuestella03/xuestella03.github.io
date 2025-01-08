@@ -56,6 +56,7 @@
 - Developed a flight-simulator type 3D game in Unity.
 - Implemented flight controls and projectile shooting. Added enemy objects and tracking to shoot projectiles at player.
 - Used collision mechanics to add shooting mechanisms.
+- Added scoring and sound effects.
 
 **Jointed Assemblies with Shading and Lighting** - <a href="https://github.com/xuestella03/Computer-Graphics-Project">GitHub Repository</a>
 
