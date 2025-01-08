@@ -52,5 +52,15 @@
 
 **Asteroid Game** - <a href="https://github.com/xuestella03/Asteroid-Game">GitHub Repository</a>
 
+*Unity, C#*
+- Developed a flight-simulator type 3D game in Unity.
+- Implemented flight controls and projectile shooting. Added enemy objects and tracking to shoot projectiles at player.
+- Used collision mechanics to add shooting mechanisms.
+
 **Jointed Assemblies with Shading and Lighting** - <a href="https://github.com/xuestella03/Computer-Graphics-Project">GitHub Repository</a>
 
+*OpenGL, JavaScript, HTML, Shading and Lighting Techniques*
+- Implemented several jointed assemblies in 3D via the vertex buffer object.
+- Allowed users to navigate 3D space using keyboard and mouse inputs.
+- Implemented Phong and Goraud shading and Phong and Blinn-Phong lighting with variable parameters (i.e. RGB values for the ambient, diffuse, and specular terms).
+- Added options to change materials.
