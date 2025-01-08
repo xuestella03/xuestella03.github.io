@@ -10,7 +10,7 @@
 
 ## Projects
 
-**Advertisement Conversion Modeling** - <a href="https://github.com/xuestella03/AdvertisementConversion">GitHub Repository</a>
+**Advertisement Conversion Modeling** - <a href="https://github.com/xuestella03/Advertisement-Conversion">GitHub Repository</a>
 
 *Python, XGBoost, GridSearchCV, pandas, scikit-learn*
 - Implemented functions to clean conversion and non-conversion datasets using Pandas dataframes. Performed data analysis by writing functions to compare continuous and categorical variables (e.g., conversion by zip code).
@@ -25,7 +25,7 @@
 - Wrote client-side Python code and AWS Lambda functions to create a “serverless” and event-driven architecture.
 - Created a similar project with a web server tier in JavaScript using Node.js and Express frameworks. Applied asynchronous execution programming style. 
 
-**Python Network Scanning Tool** - <a href="https://github.com/xuestella03/DomainScanner">GitHub Repository</a>
+**Python Network Scanning Tool** - <a href="https://github.com/xuestella03/Domain-Scanner">GitHub Repository</a>
 
 *Python, Security Protocols (DNS, TLS, HTTP, HSTS), nmap, OpenSSL, nslookup*
 - Developed a command-line tool to analyze web domains and evaluate network characteristics and security features. 
@@ -33,7 +33,7 @@
 - Implemented a JSON reporting framework to present results.
 - Ensured portability by managing third-party dependencies and creating a distribution-ready package.
 
-**Predictive Modeling of Stock Market Movement** - <a href="https://github.com/xuestella03/StockMarket">GitHub Repository</a>
+**Predictive Modeling of Stock Market Movement** - <a href="https://github.com/xuestella03/Stock-Market">GitHub Repository</a>
 
 *Python, Random Forest Classifiers, yfinance, scikit-learn*
 - Used Random Forest classifiers to predict daily movements of a given stock or index using the opening and closing price, the volume traded, and the highest and lowest price.
@@ -41,7 +41,7 @@
 - Backtested the model using growing amounts of data to predict subsequent periods. 
 - Analyzed market sentiment from news data and included it as a predictor.
 
-**Derivative Pricing and Financial Modeling** - <a href="https://github.com/xuestella03/OptionsPricer">GitHub Repository</a>
+**Derivative Pricing and Financial Modeling** - <a href="https://github.com/xuestella03/Options-Pricer">GitHub Repository</a>
 
 *Python, Financial Theory, Stochastic Volatility, numpy, matplotlib*
 - Developed an options pricing model using Black-Scholes to calculate the prices of European options. 
@@ -50,7 +50,7 @@
 - Implemented a Monte Carlo simulation to predict portolio values over time. Analyzed historical data and applied Cholesky decomposition to simulate correlated returns. 
 - Interpreted simulation results by computing measures such as value at risk, variance, and confidence intervals. 
 
-**Asteroid Game** - <a href="https://github.com/xuestella03/AsteroidGame">GitHub Repository</a>
+**Asteroid Game** - <a href="https://github.com/xuestella03/Asteroid-Game">GitHub Repository</a>
 
-**Jointed Assemblies with Shading and Lighting** - <a href="https://github.com/xuestella03/ComputerGraphicsProject">GitHub Repository</a>
+**Jointed Assemblies with Shading and Lighting** - <a href="https://github.com/xuestella03/Computer-Graphics-Project">GitHub Repository</a>
 
