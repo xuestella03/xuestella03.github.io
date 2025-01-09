@@ -10,6 +10,13 @@
 - See my work and leadership experience [here](/resumepage.md).
 - See my projects [here](/projectspage.md).
 - See my research and talks [here](/research.md).
+- Download my resume.
+
+## Contact Information
+- Email: estellaxu2025@u.northwestern.edu
+- Phone: (425) 770-4175
+- LinkedIn: [estella-xu-b6a042211](www.linkedin.com/in/estella-xu-b6a042211)
+- GitHub: [xuestella03](https://github.com/xuestella03)
 
 ## About Me
 Hi there! My name is Estella. I’m a senior at Northwestern University working towards a Bachelor of Arts in Mathematics and Computer Science. My experience ranges from financial modeling to data science, machine learning, and working in the cloud with AWS and APIs. I’ve also done research in abstract math, and outside of class, I enjoy diving deeper into math topics. 
