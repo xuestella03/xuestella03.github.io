@@ -17,6 +17,13 @@
 - Conducted an 8-week independent research project to rigorously prove new properties of coadjoint orbits of extensions of Lie groups under the guidance of Professor Santiago Cañez.
 - Authored a final paper on the subject.
 
+**Optimal Transport Using Network Flows** 
+
+<a href="assets/img/Optimal Transport Using Network Flows.pdf" target="_blank">PDF of paper.</a>
+- Authored a final paper with another student (Leo Chang) discussing optimal transport using network flows. 
+- Addressed the following problem: given a network of supply and demand nodes where each path starts in supply and ends in demand, find the minimum amount of work required to transport resources from supply to demand given the weights of each path.
+- Presented the algorithm to solve the problem and explicated an example problem. 
+
 ## Talks
 
 **Directed Reading Program Fall 2023 & Spring 2024**

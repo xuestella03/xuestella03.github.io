@@ -9,12 +9,13 @@
 
 ## Leadership and Work Experience
 **Software Engineer Intern @ PrizeSole** - *June - August 2024*
+- Implemented full-stack features for a startup of 30+ employees to build an online shoe store offering discounts and sweepstakes raffles to subscribers.
 - Developed a front-end application for an online store using Nuxt.js, incorporating features such as Nuxt Icons for an enhanced user interface.
 - Built a checkout form using PrimeVue components. Integrated the Stripe API to ensure secure transactions.
 - Used AWS Lambda functions with the API Gateway to create serverless back-end services, including functions to add users to the database upon sign-up for efficient and scalable user management.
 
 **Co-Director of Sales and Promotions @ The Dolphin Show at Northwestern University** - *September 2022 - June 2024*
-- Analyzed sales patterns using Excel to increase ticket sales for the nation's largest student produced musical.
+- Analyzed sales patterns using Excel to increase ticket sales for the nation's largest student produced musical (100+ members).
 - Sold 3,525 tickets with a gross of $61,195, selling out the venue and generating more revenue than any previous year of the Dolphin Show.
 - Arranged group sales and discounts with 6 schools and 20 restaurants, accounting for 160 tickets.
 - Piloted inclusive ticketing by using a grant from Student Activities Assistance Fund to implement a new pay-what- you-can system, providing 70+ students with reduced price tickets.

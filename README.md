@@ -5,12 +5,14 @@
     <link rel="manifest" href="/assets/favicon/site.webmanifest">
 </head>
 
+## Quick Links
+
 - See my education [here](/education.md). 
 - See my technical skills [here](/skillspage.md).
 - See my work and leadership experience [here](/resumepage.md).
 - See my projects [here](/projectspage.md).
 - See my research and talks [here](/research.md).
-- Download my resume.
+- Download my <a href="assets/img/Estella Xu - CV.pdf" target="_blank">CV</a>.
 
 ## Contact Information
 - Email: estellaxu2025@u.northwestern.edu

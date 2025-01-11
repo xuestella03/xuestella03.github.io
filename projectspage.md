@@ -10,6 +10,8 @@
 
 ## Projects
 
+*Some projects were completed as part of coursework. To maintain academic integrity, I will not be linking the repositories. However, I am happy to discuss them, including the skills and techniques applied, upon request.*
+
 **Advertisement Conversion Modeling** - <a href="https://github.com/xuestella03/Advertisement-Conversion">GitHub Repository</a>
 
 *Python, XGBoost, GridSearchCV, pandas, scikit-learn*
@@ -65,3 +67,27 @@
 - Allowed users to navigate 3D space using keyboard and mouse inputs.
 - Implemented Phong and Goraud shading and Phong and Blinn-Phong lighting with variable parameters (i.e. RGB values for the ambient, diffuse, and specular terms).
 - Added options to change materials.
+- *Some commentary and stub code is provided by Professor Jack Tumblin.*
+
+**Operating System Projects in the Nautilus Kernel** 
+
+*C, Nautilus Kernel, Operating Systems*
+- Implemented schedulers including FIFO, non-preemptive shortest job first, preemptive shortest remaining time first, preemptive static priority, round robin, and stride.
+- Prevented concurrency issues by using the spinlock, mutex, and semaphore implementations of ring buffer concurrency that resolved issues with both threads and interrupts. 
+- Developed a device driver for a parallel port and a GPU.
+- Implemented virtual address spaces using x86 paging. Allowed the kernel to manipulate the address space using regions; wrote functions to add/remove/move regions and alter region permission. Handled requests such as switching to and from an address space, invoking exceptions, and adding/removing threads.
+
+**Navigation using OpenStreetMap** 
+
+*C++* 
+- Developed a program to perform basic navigation given a map from OpenStreetMap.
+- Implemented a graph class in C++ and used it to read a map by importing nodes and paths.
+- Used binary search to output information about the map.
+- Implemented Dijkstra's Algorithm to navigate the map.
+
+**Simple Structured Query Language**
+
+*C*
+ - Implemented a simple version of SQL. 
+- Wrote a lexical analyzer turning SQL inputs into storeable tokens. Implemented a parser to enforce syntax rules and an analyzer to enforce semantic rules, detecting any grammatical or conceptual errors in user input. 
+- Wrote a program to execute and output results of a query, respecting order, operators, functions, and limits. 
