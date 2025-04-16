@@ -20,6 +20,12 @@ GPA: 3.68/4.0 | Dean's List
 - Data Structures and Algorithms
 - Discrete Math for Computer Science
 
+*Systems*
+- Operating Systems
+- Networking
+- [Database Systems](/databasenotes.md)
+- [Parallel Computing](/parallelcomputingnotes.md)
+
 *Artificial Intelligence*
 - AI and Machine Learning
 
@@ -29,14 +35,10 @@ GPA: 3.68/4.0 | Dean's List
 - Game Design and Development
 - Data Science Pipeline
 
-*Systems*
-- Operating Systems
-- Networking
-- [Database Systems](/databasenotes.md)
-
 *Theory*
 - Design and Analysis of Algorithms
 - Modern Discrete Probability
+- Algorithms for Collective Decision-Making
 
 
 **Mathematics**
