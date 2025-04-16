@@ -32,7 +32,7 @@ GPA: 3.68/4.0 | Dean's List
 *Systems*
 - Operating Systems
 - Networking
-- Database Systems
+- [Database Systems](/databasenotes.md)
 
 *Theory*
 - Design and Analysis of Algorithms
@@ -47,6 +47,3 @@ GPA: 3.68/4.0 | Dean's List
 - Probability and Stochastic Processes
 - Abstract Algebra (Group and Ring Theory)
 - Real Analysis
-
-
-#### Selected Class Notes
