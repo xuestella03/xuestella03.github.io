@@ -7,4 +7,5 @@
 </head>
 
 [Back to Homepage](/README.md)
+
 <a href="assets/img/CS 339 Notes.pdf" target="_blank">PDF of class notes.</a>
