@@ -8,4 +8,4 @@
 [Back to Homepage](/README.md)
 
 
-Download my <a href="assets/img/Estella Xu - Resume - MTA.pdf" target="_blank">CV</a>.
+<a href="assets/img/Estella Xu - Resume - MTA.pdf" target="_blank">MTA Resume</a>.
