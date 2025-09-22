@@ -12,6 +12,17 @@
 
 *Some projects were completed as part of coursework. To maintain academic integrity, I will not be linking the repositories. However, I am happy to discuss them, including the skills and techniques applied, upon request.*
 
+**Join Implementations on Distributed Databases** - <a href="https://github.com/xuestella03/Quest-MPI-Dist-DB">GitHub Repository</a>
+
+*Python, MPI, HPC Clusters, Docker, Socket, Bash*
+- Simulated a distributed database system and developed coordination logic for executing join algorithms across nodes. Analyzed implementations and compared performance metrics.
+- Integrated DuckDB and Parquet file transfer to reduce serialization overhead and improve I/O efficiency.
+- Used Message Passing Interface (MPI) to implement distributed joins on Northwestern's HPC cluster (Quest) and evaluated scalability on 1, 2, 3, 8, and 16 nodes.
+- Optimized performance with Python's Multiprocessing and MPI's non-blocking operations.
+- Deployed a distributed network using Docker containers and Python's Socket to simulate multi-node environments.
+- Evaluated execution time of each join phase using TPC-H benchmarks on both Quest and Docker environments.
+- Reviewed 4+ papers on distributed join algorithms; authored a final report and delivered both a lecture and final presentation on design trade-offs and results.
+
 **Advertisement Conversion Modeling** - <a href="https://github.com/xuestella03/Advertisement-Conversion">GitHub Repository</a>
 
 *Python, XGBoost, GridSearchCV, pandas, scikit-learn*
