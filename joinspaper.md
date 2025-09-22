@@ -1,1 +1,1 @@
-<iframe width="100%" height="400" src="assets/img/Distributed Joins.pdf"> </iframe>
+<iframe width="700" height="700" src="assets/img/Distributed Joins.pdf"> </iframe>
