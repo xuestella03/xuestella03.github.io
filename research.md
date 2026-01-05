@@ -8,6 +8,30 @@
 [Back to Homepage](/README.md)
 
 ## Research Experience
+
+**Distributed Databases on Heterogeneous Clusters** 
+
+<a href="https://github.com/xuestella03/RPi-Cluster-Spark">GitHub Repository</a>
+
+*Python, Ansible, Scala, Bash Scripting, Spark*
+
+- Designed and implemented hardware-conscious scheduling and query execution for a distributed database on a heterogeneous cluster (12 Raspberry Pis, 2 Rock Pros, 1 server), improving runtime, cost, and power usage. 
+- Extended Spark's scheduler for heterogeneous environments, dynamically accounting for node-specific memory and compute capabilities. 
+- Deployed and optimized the cluster using PXE boot to test OS and JVM configurations, and automated TPC-H benchmarking and management with Ansible for scalable performance evaluation. 
+
+**Join Implementations on Distributed Databases** 
+
+<a href="https://github.com/xuestella03/Quest-MPI-Dist-DB">GitHub Repository</a>
+
+*Python, MPI, HPC Clusters, Docker, Socket, Bash*
+- Simulated a distributed database system and developed coordination logic for executing join algorithms across nodes. Analyzed implementations and compared performance metrics.
+- Integrated DuckDB and Parquet file transfer to reduce serialization overhead and improve I/O efficiency.
+- Used Message Passing Interface (MPI) to implement distributed joins on Northwestern's HPC cluster (Quest) and evaluated scalability on 1, 2, 3, 8, and 16 nodes.
+- Optimized performance with Python's Multiprocessing and MPI's non-blocking operations.
+- Deployed a distributed network using Docker containers and Python's Socket to simulate multi-node environments.
+- Evaluated execution time of each join phase using TPC-H benchmarks on both Quest and Docker environments.
+- Reviewed 4+ papers on distributed join algorithms; authored a final report and delivered both a lecture and final presentation on design trade-offs and results.
+
 **Coadjoint Orbits of Extensions of Lie Groups**
 
 <a href="assets/img/SURG Summary Report.pdf" target="_blank">PDF of summary report.</a>
