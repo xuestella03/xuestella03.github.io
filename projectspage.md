@@ -12,6 +12,14 @@
 
 *Some projects were completed as part of coursework. To maintain academic integrity, I will not be linking the repositories. However, I am happy to discuss them, including the skills and techniques applied, upon request.*
 
+**Distributed Databases on Heterogeneous Clusters** - <a href="https://github.com/xuestella03/RPi-Cluster-Spark">GitHub Repository</a>
+
+*Python, Ansible, Scala, Bash Scripting, Spark*
+
+- Designed and implemented hardware-conscious scheduling and query execution for a distributed database on a heterogeneous cluster (12 Raspberry Pis, 2 Rock Pros, 1 server), improving runtime, cost, and power usage. 
+- Extended Spark's scheduler for heterogeneous environments, dynamically accounting for node-specific memory and compute capabilities. 
+- Deployed and optimized the cluster using PXE boot to test OS and JVM configurations, and automated TPC-H benchmarking and management with Ansible for scalable performance evaluation. 
+
 **Join Implementations on Distributed Databases** - <a href="https://github.com/xuestella03/Quest-MPI-Dist-DB">GitHub Repository</a>
 
 *Python, MPI, HPC Clusters, Docker, Socket, Bash*

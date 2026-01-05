@@ -8,6 +8,23 @@
 [Back to Homepage](/README.md)
 
 ## Leadership and Work Experience
+
+**Software Engineer Intern @ 360 Privacy** - *September - November 2025*
+- Built a scalable data pipeline to parse, clean, and index PII data from large dark web leaks (20GB+ files). 
+- Developed a dynamic parser generator using LangGraph with AI-assisted parser creation, automated testing, and human-in-the-loop validation to handle malformed data. 
+- Optimized I/O performance via batching & memory management, enabling stable throughput on large inputs. 
+- Embedded 100B+ records into Pinecone VectorDB for high-speed fuzzy matching and semantic search. 
+- Integrated the vector index with a Neo4j graph DB, linking client entities and relationships to enable pivot search.
+
+**Data Engineer Intern @ Metropolitan Transportation Authority** - *June - August 2025*
+- Built and maintained ETL pipelines for the MTA’s data lake of 890+ Delta tables on Kubernetes and Docker.
+- Collaborated in Agile development with cross-functional teams via Jira; automated reports using the Jira API.
+- Reduced memory usage by 50% for Kubernetes pods and runtime by 30% through optimizing DB-API usage.
+- Modified the open source delta-rs library's buffer flushing mechanisms to decrease memory usage by 25%.
+- Extended the MTA’s custom Airflow library for ingestion into Azure Blob, automating 800+ DAGs. 
+- Repaired and optimized Airflow DAGs, deploying fixes via GitLab CI/CD to ensure reliable automation.
+- Developed Python-Spark extractors to load metadata into Neo4J and Elasticsearch for the Data Catalog.
+
 **Software Engineer Intern @ PrizeSole** - *June - August 2024*
 - Implemented full-stack features for a startup of 30+ employees to build an online shoe store offering discounts and sweepstakes raffles to subscribers.
 - Developed a front-end application for an online store using Nuxt.js, incorporating features such as Nuxt Icons for an enhanced user interface.
