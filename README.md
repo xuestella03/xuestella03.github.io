@@ -12,7 +12,7 @@
 - See my work and leadership experience [here](/resumepage.md).
 - See my projects [here](/projectspage.md).
 - See my research and talks [here](/research.md).
-- Download my <a href="assets/img/Estella Xu - Resume.pdf" target="_blank">Resume</a> and <a href="assets/img/Estella Xu - CV.pdf" target="_blank">CV</a>.
+- Download my <a href="assets/img/Estella Xu - Resume.pdf" target="_blank">resume</a> and <a href="assets/img/Estella Xu - CV.pdf" target="_blank">CV</a>.
 
 ## Contact Information
 - Email: estellaxu2025@u.northwestern.edu
