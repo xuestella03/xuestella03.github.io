@@ -11,7 +11,9 @@
 
 **Distributed Databases on Heterogeneous Clusters** 
 
-<a href="https://github.com/xuestella03/RPi-Cluster-Spark">GitHub Repository</a> | <a href="assets\img\Spark Scheduling on Heterogeneous Wimpy_Nodes.pdf" target="_blank">PDF of Paper</a>
+<a href="https://github.com/xuestella03/RPi-Cluster-Spark">GitHub Repository</a> 
+
+<a href="assets\img\Spark Scheduling on Heterogeneous Wimpy_Nodes.pdf" target="_blank">PDF of Paper</a>
 
 *Python, Ansible, Scala, Bash Scripting, Spark*
 
