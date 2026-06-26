@@ -15,9 +15,9 @@
 
 *Python, Ansible, Scala, Bash Scripting, Spark*
 
-- Designed and implemented hardware-conscious scheduling and query execution for a distributed database on a heterogeneous cluster (12 Raspberry Pis, 2 Rock Pros, 1 server), improving runtime, cost, and power usage. 
+- Designed and implemented hardware-conscious scheduling and query execution for a distributed database on a heterogeneous cluster (various Raspberry Pis), improving runtime, cost, and power usage. 
 - Extended Spark's scheduler for heterogeneous environments, dynamically accounting for node-specific memory and compute capabilities. 
-- Deployed and optimized the cluster using PXE boot to test OS and JVM configurations, and automated TPC-H benchmarking and management with Ansible for scalable performance evaluation. 
+- Deployed and optimized the cluster using Ansible to test OS and JVM configurations, and automated TPC-H benchmarking and management for scalable performance evaluation. 
 
 **Join Implementations on Distributed Databases** 
 

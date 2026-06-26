@@ -21,13 +21,13 @@
 - GitHub: [xuestella03](https://github.com/xuestella03)
 
 ## About Me
-Hi there! My name is Estella. I’m a student at Northwestern University working towards a M.S. in Computer Science. My experience ranges from data engineering, database systems, and working in the cloud with AWS and APIs. I’ve also done research in abstract math, and outside of class, I enjoy diving deeper into math topics. 
+Hi! My name is Estella. I recently graduated from Northwestern University with a B.A. in Mathematics and a B.A./M.S. in Computer Science. In the fall, I will be a Software Developer at IBM. 
 
-I’m currently looking for roles in software engineering and data engineering where I can apply my analytical skills and passion for problem-solving. 
+My experience includes research in database systems, data engineering, and application building. I’m interested in roles in software engineering and data engineering. 
 
 I started my journey as a musician (I entered college to study Bassoon Performance and Economics), and though I have pivoted to quite a different area, I credit a lot of my achievements to my music teachers, who taught me the patience, discipline, and attention to detail necessary to master challenging tasks. 
 
-I’m also a teaching assistant in the Department of Mathematics. I’ve always loved teaching, having done a lot of tutoring during high school (fun fact: I once taught English in Spanish to ESL students, though unfortunately, I am no longer proficient in speaking Spanish). I find it extremely rewarding to explain concepts and help others grow their understanding.
+I also spent much of my undergraduate career as a teaching assistant in the Department of Mathematics. I’ve always loved teaching, having done a lot of tutoring during high school (fun fact: I once taught English in Spanish to ESL students, though unfortunately, I am no longer proficient in speaking Spanish). I find it extremely rewarding to explain concepts and help others grow their understanding.
 
 When I’m not working or studying, I enjoy working out and cooking.
 
