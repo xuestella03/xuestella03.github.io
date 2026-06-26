@@ -11,12 +11,12 @@
 
 **Distributed Databases on Heterogeneous Clusters** 
 
-<a href="https://github.com/xuestella03/RPi-Cluster-Spark">GitHub Repository</a>
+<a href="https://github.com/xuestella03/RPi-Cluster-Spark">GitHub Repository</a> | <a href="assets\img\Spark Scheduling on Heterogeneous Wimpy_Nodes.pdf" target="_blank">PDF of Paper</a>
 
 *Python, Ansible, Scala, Bash Scripting, Spark*
 
-- Designed and implemented hardware-conscious scheduling and query execution for a distributed database on a heterogeneous cluster (various Raspberry Pis), improving runtime, cost, and power usage. 
-- Extended Spark's scheduler for heterogeneous environments, dynamically accounting for node-specific memory and compute capabilities. 
+- Designed and implemented hardware-conscious scheduling and query execution for a distributed database on a heterogeneous cluster (various Raspberry Pis). 
+- Extended Spark's scheduler for heterogeneous environments, dynamically accounting for node-specific memory and compute capabilities; improved runtime by a mean of 14% across queries. 
 - Deployed and optimized the cluster using Ansible to test OS and JVM configurations, and automated TPC-H benchmarking and management for scalable performance evaluation. 
 
 **Join Implementations on Distributed Databases** 
